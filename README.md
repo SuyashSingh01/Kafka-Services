@@ -14,7 +14,7 @@ Kafka-Services is a Node.js application that demonstrates the use of Apache Kafk
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/SuyashSingh01/Kafka-Services.git
     cd kafka-app
     ```
 
